@@ -15,10 +15,13 @@ Algorithms
  RSA (Rivest–Shamir–Adleman): Asymmetric, key sizes: 1024, 2048, or 4096 bits.
 
 **Contributing**
+
 Contributions are welcome! Please refer to the CONTRIBUTING.md file for guidelines.
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 **Contact**
+
 For questions or suggestions, reach out to ritikasinghrs70330@gmail.com or Ritika800.
